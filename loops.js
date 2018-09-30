@@ -14,7 +14,7 @@ function whileLoop(number){
   while(num > 0){
     console.log(num--)
   }
-  console.log('done')
+  return 'done'
 }
 
 function incrementVariable() {
